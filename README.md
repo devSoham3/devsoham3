@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there, I'm Soham!
 
-<!--
-**devSoham3/devsoham3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science grad student at RIT in Rochester—originally from Pune, India! With a background in Mechanical Engineering and hands-on experience in data engineering from Cognizant, I love mixing logic with a dash of creativity.
 
-Here are some ideas to get you started:
+### Currently working on:
+- **Personal Website Revamp:** Moving my personal website from a Google Sites implementation to one that is made and designed by me for finer control.
+- **Workout Analyzer/Tracker:** A workout analyzer for the history of me working out, looking into making a tracking app myself as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick Facts
+- I like tinkering: physically and in code.
+- Gym rat and badminton enthusiast.
+- Car fanatic who never misses an automotive chat.
+
+### Let's Connect!
+Feel free to check out my projects or drop me a message.
