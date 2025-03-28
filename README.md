@@ -8,7 +8,7 @@ I'm a Data Science grad student at RIT in Rochester—originally from Pune, Indi
 
 ### Quick Facts
 - I like tinkering: physically and in code.
-- Gym rat and badminton enthusiast.
+- Exercise and badminton enthusiast.
 - Car fanatic who never misses an automotive chat.
 
 ### Let's Connect!
