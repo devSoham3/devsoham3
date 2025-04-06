@@ -1,6 +1,6 @@
 ## Hey there, I'm Soham!
 
-I'm a Data Science grad student at RIT in Rochester—originally from Pune, India! With a background in Mechanical Engineering and hands-on experience in data engineering from Cognizant, I love mixing logic with a dash of creativity.
+I'm a Data Science grad student at RIT in Rochester (originally from Pune, India). With a background in Mechanical Engineering and hands-on experience in data engineering from Cognizant, I love mixing logic with a dash of creativity.
 
 ### Currently working on:
 - **Personal Website Revamp:** Moving my personal website from a Google Sites implementation to one that is made and designed by me for finer control.
